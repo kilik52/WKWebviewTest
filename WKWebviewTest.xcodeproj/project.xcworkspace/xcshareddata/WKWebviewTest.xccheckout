@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F4D54C2-656A-4B7D-9596-8DB0EB71F57B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>WKWebviewTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6FECC54C20855C61DBEA8FEC684A825C734FDAC</key>
+		<string>https://github.com/kilik52/WKWebviewTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>WKWebviewTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6FECC54C20855C61DBEA8FEC684A825C734FDAC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kilik52/WKWebviewTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6FECC54C20855C61DBEA8FEC684A825C734FDAC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6FECC54C20855C61DBEA8FEC684A825C734FDAC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>WKWebviewTestRepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
